@@ -1,5 +1,5 @@
 # Data-for-Good
-#Introduction
+# Introduction
 
 This project is one of the research initiatives by the Rights CoLab and the Columbia Data Science Institute. This research collaboration aims to define a set of standards through the Sustainability Accounting Standards Board (SASB) that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. I joined the team as a student volunteer/ DSI scholar under the mentorship of Rights CoLab co-founders Joanne Bauer and Paul Rissman.
 
@@ -7,7 +7,7 @@ I used Google Big Query to access a sample of International financial filings th
 
 For more insight into the results of the research initiative, check out the following website: https://rightscolab.org/project-harnessing-big-data/
 
-##Skills
+# Skills
 
 Python
 -Pandas
